@@ -1,0 +1,23 @@
+.booth {
+    width: 800px;
+    margin: auto;
+    background-color: #dddddd;
+    border: beige solid;
+    border-radius: 1%;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.8);
+
+}
+#d{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+button{
+    background-color: lightblue;
+    height: 80px;
+    width: 120px;
+    border-radius: 20%;
+    font-weight: bold;
+}
